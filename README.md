@@ -1,10 +1,4 @@
-<h2 align="center">𝐓𝐮𝐫𝐧𝐢𝐧𝐠 𝐂𝐮𝐫𝐢𝐨𝐬𝐢𝐭𝐲 𝐈𝐧𝐭𝐨 𝐂𝐨𝐝𝐞</h2>
-
-<p align="center">
-  <img src="photo_5796297926802870389_x.jpg" width="500" alt="Khawlah banner"/>
-  <br/>
-  <i><font size="4">A mind wired to wonder.</font></i>
-</p>
+<h2 align="center">Turning Curiosity Into Code</h2>
 
 <br/>
 
